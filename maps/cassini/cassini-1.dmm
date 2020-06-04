@@ -4,7 +4,7 @@
 "d" = (/turf/simulated/floor/tiled,/area/cassini)
 "e" = (/obj/effect/wingrille_spawn/reinforced_phoron/full,/turf/simulated/floor/plating,/area/cassini)
 "f" = (/turf/simulated/floor/tiled/dark,/area/cassini)
-"g" = (/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor/tiled,/area/cassini)
+"g" = (/turf/simulated/ocean,/area/space)
 "h" = (/turf/simulated/floor/tiled/dark/monotile,/area/cassini)
 "i" = (/turf/simulated/floor/tiled/steel_grid,/area/cassini)
 "j" = (/turf/simulated/wall/constructed,/area/cassini)
@@ -12,10 +12,6 @@
 "l" = (/turf/simulated/floor/tiled/monotile,/area/cassini)
 "m" = (/turf/simulated/floor/tiled/techmaint,/area/cassini)
 "n" = (/turf/simulated/floor/reinforced/airless,/area/cassini)
-"o" = (/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor/tiled/dark,/area/cassini)
-"p" = (/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor/tiled/steel_grid,/area/cassini)
-"q" = (/obj/effect/landmark/test/safe_turf,/turf/simulated/floor/tiled/steel_grid,/area/cassini)
-"r" = (/obj/effect/landmark/start,/turf/simulated/floor/tiled/dark,/area/cassini)
 "s" = (/obj/machinery/atmospherics/unary/vent_scrubber{icon_state = "map_scrubber_on"; dir = 1},/turf/simulated/floor/tiled/steel_grid,/area/cassini)
 "t" = (/obj/machinery/atmospherics/portables_connector,/obj/machinery/portable_atmospherics/canister/empty,/turf/simulated/floor/tiled/steel_ridged,/area/cassini)
 "u" = (/obj/structure/cable{icon_state = "0-8"},/obj/machinery/power/apc/high{pixel_y = -24},/turf/simulated/floor/tiled/techmaint,/area/cassini)
@@ -95,9 +91,9 @@ aaaaaaaaaacfmbbeYebbmfiiiifjddddjffjddddddddddddddjfcaaaaaaaaaaa
 aaaaaaaaaacfJbnnMnnbWfddddfjddddjffjddddddddddddddjfcaaaaaaaaaaa
 aaaaaaaaaacfmennMnnemfddddfjddddjffjddddddddddddddjfcaaaaaaaaaaa
 aaaaaaaaaacfmennynnemfddddRjjjjjjffjddddddddddddddjfcaaaaaaaaaaa
-aaaaaaaaaacfmennnnnemoggddfffffffffjddddddddddddddjfcaaaaaaaaaaa
-aaaaaaaaaacfJbnnnnnbWoggddfffffffffjddddddddddddddjfcaaaaaaaaaaa
-aaaaaaaaaacfmbbeeebbmoppiqfrfffffffjddddddddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfmennnnnemgggddfffffffffjddddddddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfJbnnnnnbWgggddfffffffffjddddddddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfmbbeeebbmgggiifffffffffjddddddddddddddjfcaaaaaaaaaaa
 aaaaaaaaaacfmmmmmmmmmfkkkkfffffffffjjjjjjjjjjjjjjjjfcaaaaaaaaaaa
 aaaaaaaaaacfffffffffffllZlffffffffffffffffffffffffffcaaaaaaaaaaa
 aaaaaaaaaabcccccccccccccccccccccccccccccccccccccccccbaaaaaaaaaaa
