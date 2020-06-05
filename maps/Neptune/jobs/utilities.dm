@@ -6,26 +6,26 @@
 	selection_color = "#5b4d20"
 	economic_power = 4
 
-/datum/job/utilities/maintenance
-	title = "Civil Technician"
+/datum/job/utilities/fireman
+	title = "Fireman"
 	total_positions = 2
 	spawn_positions = 2
 	outfit_type = /decl/hierarchy/outfit/job/cassini/utilities
 
-/datum/job/utilities/construction
+/datum/job/utilities/head_fireman
 	title = "Construction Worker"
 	total_positions = 2
 	spawn_positions = 2
 	outfit_type = /decl/hierarchy/outfit/job/cassini/utilities/construction
 
-/datum/job/utilities/maintenance_chief
-	title = "General Foreman"
-	welcome_blurb = "Coordinate and direct the Utilities staff in keeping the facility in one piece. Try not to go mad."
+/datum/job/utilities/telegraphist
+	title = "Telegraphist"
+	welcome_blurb = "Send and receive signals using the telegraph. "
 	total_positions = 1
 	spawn_positions = 1
-	head_position = TRUE
-	department_flag = ENG|COM
-	supervisors = "the Civil Administrator"
+	head_position = FALSE
+	department_flag = ENG
+	supervisors = "the Captain"
 	selection_color = "#7f6e2c"
 	req_admin_notify = 1
 	outfit_type = /decl/hierarchy/outfit/job/cassini/utilities/chief

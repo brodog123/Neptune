@@ -6,8 +6,8 @@
 	selection_color = "#000080"
 	economic_power = 4
 
-/datum/job/police/officer
-	title = "Police Officer"
+/datum/job/police/master_at_arms
+	title = "Master At Arms"
 	total_positions = 2
 	spawn_positions = 2
 	outfit_type = /decl/hierarchy/outfit/job/cassini/police

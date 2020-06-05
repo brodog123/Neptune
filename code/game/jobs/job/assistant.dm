@@ -5,11 +5,11 @@
 
 	total_positions = -1
 	spawn_positions = -1
-	supervisors = "absolutely everyone"
+	supervisors = "Any crew members"
 	economic_power = 1
 	access = list()			//See /datum/job/assistant/get_access()
 	minimal_access = list()	//See /datum/job/assistant/get_access()
-	alt_titles = list("Technical Assistant","Medical Intern","Research Assistant","Visitor")
+	// alt_titles = list("Technical Assistant","Medical Intern","Research Assistant","Visitor") //commented out for now in case i want to add any alt passenger titles
 	outfit_type = /decl/hierarchy/outfit/job/assistant
 
 /datum/job/assistant/get_access()

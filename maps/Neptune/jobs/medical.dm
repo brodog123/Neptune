@@ -3,17 +3,17 @@
 	department = "Medical"
 	economic_power = 6
 	selection_color = "#013d3b"
-	supervisors = "the Chief Physician"
+	supervisors = "the Chief Surgeon"
 
-/datum/job/medical/physician
-	title = "Physician"
-	welcome_blurb = "Treat wounds, mix medicines, administer pills, and conduct surgery. Try to keep at least some of the colonists alive."
+/datum/job/medical/surgeon
+	title = "Surgeon"
+	welcome_blurb = "Amputate"
 	total_positions = 3
 	spawn_positions = 3
 	outfit_type = /decl/hierarchy/outfit/job/cassini/medical
 
-/datum/job/medical/physician_chief
-	title = "Chief Physician"
+/datum/job/medical/chief_surgeon
+	title = "Chief Surgeon"
 	total_positions = 1
 	spawn_positions = 1
 	economic_power = 10
