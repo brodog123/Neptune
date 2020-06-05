@@ -13,8 +13,8 @@
 	uniform_over = /obj/item/clothing/under/jumpsuit/cassini/admin
 	pda_type = /obj/item/modular_computer/pda/wrist/cassini/admin
 
-/decl/hierarchy/outfit/job/cassini/clerk/administrator
-	name = "Cassini Administrator"
+/decl/hierarchy/outfit/job/neptune/captain
+	name = "Captain's Dress Uniform"
 	uniform_over = /obj/item/clothing/under/jumpsuit/cassini/admin/manager
 	pda_type = /obj/item/modular_computer/pda/wrist/cassini/manager
 
