@@ -2,7 +2,6 @@
 	default_assistant_title = "3rd Class Passenger"
 	allowed_jobs = list(
 		/datum/job/captain,
-		/datum/job/chief_officer,
 		/datum/job/medical/surgeon,
 		/datum/job/medical/chief_surgeon,
 		/datum/job/police/master_at_arms,,

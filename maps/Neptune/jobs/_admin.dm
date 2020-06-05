@@ -1,4 +1,4 @@
-/datum/job/administrator
+/datum/job/captain
 	title = "Captain"
 	welcome_blurb = "You are the captain of the RMS Neptune, one of the finest ocean liners in the world. Bring her and all souls aboard safely to your destination without incident. Remember, the captain always goes down with the ship!"
 	department_flag = COM
@@ -8,7 +8,7 @@
 	spawn_positions = 1
 	selection_color = "#1d1d4f"
 	req_admin_notify = 1
-	outfit_type = /decl/hierarchy/outfit/job/cassini/clerk/administrator
+	outfit_type = /decl/hierarchy/outfit/job/neptune/captain
 	economic_power = 10
 	supervisors = "the Red Diamond Line Board of Executives"
 
@@ -25,6 +25,6 @@
 	spawn_positions = 1
 	selection_color = "#1d1d4f"
 	req_admin_notify = 1
-	outfit_type = /decl/hierarchy/outfit/job/cassini/clerk/administrator
+	outfit_type = /decl/hierarchy/outfit/job/neptune/captain
 	economic_power = 10
 	supervisors = "the Captain"

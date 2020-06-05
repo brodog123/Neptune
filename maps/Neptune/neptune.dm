@@ -6,7 +6,7 @@
 	#include "jobs/_job_clothing.dm"
 	#include "jobs/_job_outfits.dm"
 	#include "jobs/_jobs_ids.dm"
-	#include "jobs/admin.dm"
+	#include "jobs/_admin.dm"
 	#include "jobs/colonist.dm"
 	#include "jobs/medical.dm"
 	#include "jobs/police.dm"
