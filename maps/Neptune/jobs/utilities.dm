@@ -6,22 +6,21 @@
 	selection_color = "#5b4d20"
 	economic_power = 4
 
-/datum/job/utilities/telegraphist
-	title = "Telegraphist"
-	total_positions = 1
-	spawn_positions = 1
+/datum/job/utilities/maintenance
+	title = "Civil Technician"
+	total_positions = 2
+	spawn_positions = 2
 	outfit_type = /decl/hierarchy/outfit/job/cassini/utilities
 
-/datum/job/utilities/fireman
-	title = "Fireman"
-	welcome_blurb = "Stoke coal into the ship's boilers. Rake the coal evenly for efficient burning. Grease bearings and trim coal when necessary. Spit on a bearing to see if it's too hot!"
-	total_positions = 8
-	spawn_positions = 5
+/datum/job/utilities/construction
+	title = "Construction Worker"
+	total_positions = 2
+	spawn_positions = 2
 	outfit_type = /decl/hierarchy/outfit/job/cassini/utilities/construction
 
-/datum/job/utilities/head_fireman
-	title = "Head Fireman"
-	welcome_blurb = "Coordinate your firemen and make sure the boilers are running at all times."
+/datum/job/utilities/maintenance_chief
+	title = "General Foreman"
+	welcome_blurb = "Coordinate and direct the Utilities staff in keeping the facility in one piece. Try not to go mad."
 	total_positions = 1
 	spawn_positions = 1
 	head_position = TRUE

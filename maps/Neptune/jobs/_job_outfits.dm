@@ -13,19 +13,6 @@
 	uniform_over = /obj/item/clothing/under/jumpsuit/cassini/admin
 	pda_type = /obj/item/modular_computer/pda/wrist/cassini/admin
 
-/decl/hierarchy/outfit/job/cassini/clerk/captain
-	name = "Captain"
-	id_type = /obj/item/weapon/card/id/cassini/admin
-	uniform_over = /obj/item/clothing/under/jumpsuit/cassini/admin
-	pda_type = /obj/item/modular_computer/pda/wrist/cassini/admin
-
-/decl/hierarchy/outfit/job/cassini/clerk/chief_officer
-	name = "Chief Officer"
-	id_type = /obj/item/weapon/card/id/cassini/admin
-	uniform_over = /obj/item/clothing/under/jumpsuit/cassini/admin
-	pda_type = /obj/item/modular_computer/pda/wrist/cassini/admin
-
-
 /decl/hierarchy/outfit/job/neptune/captain
 	name = "Captain's Dress Uniform"
 	uniform_over = /obj/item/clothing/under/jumpsuit/cassini/admin/manager
