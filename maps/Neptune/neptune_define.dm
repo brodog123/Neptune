@@ -4,20 +4,20 @@
 	full_name = "Neptune"
 	path = "neptune"
 	lobby_icon = 'maps/cassini/cassini_lobby.dmi'
-	lobby_tracks = list()
-	station_levels = list(1)
+	lobby_tracks = list(/music_track/absconditus)
+	station_levels = list(1, 2, 3, 4, 5, 6)
 	contact_levels = list(1)
-	player_levels = list(1)
+	player_levels = list(1, 2, 3, 4, 5, 6)
 	allowed_spawns = list("Arrivals Shuttle")
 
-	shuttle_docked_message = "The shuttle has docked."
-	shuttle_leaving_dock = "The shuttle has departed from home dock."
-	shuttle_called_message = "A scheduled transfer shuttle has been sent."
-	shuttle_recall_message = "The shuttle has been recalled"
-	emergency_shuttle_docked_message = "The emergency escape shuttle has docked."
-	emergency_shuttle_leaving_dock = "The emergency escape shuttle has departed from %dock_name%."
-	emergency_shuttle_called_message = "An emergency escape shuttle has been sent."
-	emergency_shuttle_recall_message = "The emergency shuttle has been recalled"
+	shuttle_docked_message = "The ship has docked."
+	shuttle_leaving_dock = "The ship has departed from the dock."
+	shuttle_called_message = "The lifeboats are being prepared."
+	shuttle_recall_message = "The lifeboat launch has been cancelled."
+	emergency_shuttle_docked_message = "The lifeboats are ready to launch."
+	emergency_shuttle_leaving_dock = "The lifeboats have launched from %dock_name%."
+	emergency_shuttle_called_message = "The lifeboats are being prepared."
+	emergency_shuttle_recall_message = "The lifeboat launch has been cancelled."
 
 	default_cultural_info = list(
 		TAG_HOMEWORLD = LOCATION_SATURN,
@@ -26,5 +26,3 @@
 		TAG_RELIGION =  RELIGION_OTHER
 	)
 
-/datum/map/neptune/perform_map_generation()
-	new /datum/random_map/noise/seafloor(null, 1, 1, 1, 64, 64)

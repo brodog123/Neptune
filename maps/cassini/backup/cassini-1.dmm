@@ -1,0 +1,114 @@
+"a" = (/turf/simulated/ocean,/area/space/ocean)
+"b" = (/turf/simulated/wall/constructed/r_wall,/area/cassini)
+"c" = (/obj/effect/wingrille_spawn/reinforced/full,/turf/simulated/floor/plating,/area/cassini)
+"d" = (/turf/simulated/floor/tiled,/area/cassini)
+"e" = (/obj/effect/wingrille_spawn/reinforced_phoron/full,/turf/simulated/floor/plating,/area/cassini)
+"f" = (/turf/simulated/floor/tiled/dark,/area/cassini)
+"g" = (/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor/tiled,/area/cassini)
+"h" = (/turf/simulated/floor/tiled/dark/monotile,/area/cassini)
+"i" = (/turf/simulated/floor/tiled/steel_grid,/area/cassini)
+"j" = (/turf/simulated/wall/constructed,/area/cassini)
+"k" = (/turf/simulated/floor/tiled/steel_ridged,/area/cassini)
+"l" = (/turf/simulated/floor/tiled/monotile,/area/cassini)
+"m" = (/turf/simulated/floor/tiled/techmaint,/area/cassini)
+"n" = (/turf/simulated/floor/reinforced/airless,/area/cassini)
+"o" = (/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor/tiled/dark,/area/cassini)
+"p" = (/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor/tiled/steel_grid,/area/cassini)
+"q" = (/obj/effect/landmark/test/safe_turf,/turf/simulated/floor/tiled/steel_grid,/area/cassini)
+"r" = (/obj/effect/landmark/start,/turf/simulated/floor/tiled/dark,/area/cassini)
+"s" = (/obj/machinery/atmospherics/unary/vent_scrubber{icon_state = "map_scrubber_on"; dir = 1},/turf/simulated/floor/tiled/steel_grid,/area/cassini)
+"t" = (/obj/machinery/atmospherics/portables_connector,/obj/machinery/portable_atmospherics/canister/empty,/turf/simulated/floor/tiled/steel_ridged,/area/cassini)
+"u" = (/obj/structure/cable{icon_state = "0-8"},/obj/machinery/power/apc/high{pixel_y = -24},/turf/simulated/floor/tiled/techmaint,/area/cassini)
+"v" = (/obj/machinery/atmospherics/pipe/simple/visible/universal,/turf/simulated/floor/tiled,/area/cassini)
+"w" = (/obj/structure/closet/secure_closet/cassini,/turf/simulated/floor/tiled/dark,/area/cassini)
+"x" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/tiled,/area/cassini)
+"y" = (/obj/machinery/power/debug_items/infinite_generator,/obj/structure/cable,/turf/simulated/floor/reinforced/airless,/area/cassini)
+"z" = (/obj/structure/closet/cassini,/turf/simulated/floor/tiled/dark,/area/cassini)
+"A" = (/obj/machinery/light{icon_state = "tube_map"; dir = 8},/obj/structure/closet/secure_closet/cassini,/turf/simulated/floor/tiled/dark,/area/cassini)
+"C" = (/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled/techmaint,/area/cassini)
+"E" = (/obj/machinery/atmospherics/pipe/simple/hidden/blue,/turf/simulated/floor/tiled/steel_grid,/area/cassini)
+"F" = (/obj/structure/closet/secure_closet/cassini/police,/turf/simulated/floor/tiled/dark,/area/cassini)
+"G" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/simulated/floor/tiled,/area/cassini)
+"H" = (/obj/effect/landmark/test/space_turf,/turf/simulated/ocean,/area/space/ocean)
+"I" = (/obj/machinery/atmospherics/pipe/simple/hidden/red,/turf/simulated/floor/tiled/steel_grid,/area/cassini)
+"J" = (/obj/machinery/light{icon_state = "tube_map"; dir = 4},/turf/simulated/floor/tiled/techmaint,/area/cassini)
+"K" = (/obj/machinery/light{icon_state = "tube_map"; dir = 4},/obj/structure/closet/secure_closet/cassini/utilities,/turf/simulated/floor/tiled/dark,/area/cassini)
+"L" = (/obj/machinery/light{icon_state = "tube_map"; dir = 1},/turf/simulated/floor/tiled/dark,/area/cassini)
+"M" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/reinforced/airless,/area/cassini)
+"O" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/techmaint,/area/cassini)
+"Q" = (/obj/machinery/alarm{pixel_y = 12},/turf/simulated/floor/tiled/dark,/area/cassini)
+"R" = (/obj/machinery/light{icon_state = "tube_map"; dir = 4},/turf/simulated/floor/tiled/dark,/area/cassini)
+"S" = (/obj/machinery/atmospherics/unary/vent_pump{icon_state = "map_vent"; dir = 1},/turf/simulated/floor/tiled/steel_grid,/area/cassini)
+"T" = (/obj/structure/closet/secure_closet/cassini/medical,/turf/simulated/floor/tiled/dark,/area/cassini)
+"U" = (/obj/structure/closet/secure_closet/cassini/utilities,/turf/simulated/floor/tiled/dark,/area/cassini)
+"V" = (/obj/machinery/atmospherics/portables_connector,/obj/machinery/portable_atmospherics/canister/air,/turf/simulated/floor/tiled/steel_ridged,/area/cassini)
+"W" = (/obj/machinery/light{icon_state = "tube_map"; dir = 8},/turf/simulated/floor/tiled/techmaint,/area/cassini)
+"Y" = (/obj/effect/wingrille_spawn/reinforced_phoron/full,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/plating,/area/cassini)
+"Z" = (/obj/machinery/light,/turf/simulated/floor/tiled/monotile,/area/cassini)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaabcccccccccccccccccccccccccccccccccccccccccbaaaaaaaaaaa
+aaaaaaaaaacfffffffffffffffffffffffffffffffffffffffffcaaaaaaaaaaa
+aaaaaaaaaacfjjjjjjjjjjjjjjjjjjffjjjjjjjjjjjjjjjjjjjfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddddddddddddjffjddddddddjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddddddddddddjffjddddddddjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddddddddddddjffjddddddddjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddddddddddddjffjddddddddjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddddddddddddjffjjjjjjjjjjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddddddddddddjfffffffffffjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddddddddddddjfffffffffffjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjjjjjjjjjjjddddddjhhjjjjjjjffjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfhiidddddiijddddddjddjdddddjffjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfhiidddddiijddddddjddjdddddjffjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjjjjjjjjhhjjjjjjjjhhjdddddjffjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddjddhdiiiiidddjdddddjffjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjdddiidjddhdiiiiidddjdddddjffjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjdddiidjjjjjjjhhjjjjjdddddjffjjjjjjjjjjfcaaaaaaaaaaa
+aaaaaaaaaacfjdddiidddddddjkkjdddddddddjffddddddddddfcaaaaaaaaaaa
+aaaaaaaaaacfjdddiidddddddjddjdddddddddjffddddddddddfcaaaaaaaaaaa
+aaaaaaaaaacfjdddiidddddddjddjdddddddddjffddddddddddfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddddddddjddjdddddddddjjfjjjjjjjjjjfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddddddddjkkjddddddddddjfjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjjjjjjjjjjjjjjhhjjjjjjjjjjjjfjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfffffffffffffLffffffffffffffffjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjjjjjjjjzllllllffffffffffffffjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddjwVkkkktzjjjjjjjjjjjjfjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddjAEiiiiIKjddddddddddjfjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddjzvddddvUjddddddddddjfjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddjzGddddxFjddddddddddjfjdddddddjjfcaaaaaaaaaaa
+aaaaaaaaaacfjddddddjwSiiiisFjdddjjjjjjjjfjdddddddjjfcaaaaaaaaaaa
+aaaaaaaaaacfjjjdjjjjwkkkkkkTjdddjffffffffjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacffffffffQffllllfTjdddjffffffffjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfmmmmCOOumfkkkkRjjdddjffjjjjjjjddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfmbbeYebbmfiiiifjddddjffjddddddddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfJbnnMnnbWfddddfjddddjffjddddddddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfmennMnnemfddddfjddddjffjddddddddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfmennynnemfddddRjjjjjjffjddddddddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfmennnnnemoggddfffffffffjddddddddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfJbnnnnnbWoggddfffffffffjddddddddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfmbbeeebbmoppiqfrfffffffjddddddddddddddjfcaaaaaaaaaaa
+aaaaaaaaaacfmmmmmmmmmfkkkkfffffffffjjjjjjjjjjjjjjjjfcaaaaaaaaaaa
+aaaaaaaaaacfffffffffffllZlffffffffffffffffffffffffffcaaaaaaaaaaa
+aaaaaaaaaabcccccccccccccccccccccccccccccccccccccccccbaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaHaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

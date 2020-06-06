@@ -43,6 +43,12 @@
 			delete_me = 1
 			return
 
+		if("firemanstart")
+			GLOB.newplayer_start += loc
+			delete_me = 1
+
+
+
 	landmarks_list += src
 	return 1
 
@@ -60,6 +66,18 @@
 
 /obj/effect/landmark/start
 	name = "start"
+	icon = 'icons/mob/screen1.dmi'
+	icon_state = "x"
+	anchored = 1.0
+	invisibility = 101
+
+/obj/effect/landmark/start/New()
+	..()
+	tag = "start*[name]"
+	return 1
+
+/obj/effect/landmark/firemanstart
+	name = "firemanstart"
 	icon = 'icons/mob/screen1.dmi'
 	icon_state = "x"
 	anchored = 1.0
@@ -112,3 +130,5 @@
 	new /datum/random_map/noise/ore(seed, min_x, min_y, src.z, max_x, max_y)
 
 	GLOB.using_map.refresh_mining_turfs(src.z)
+
+
