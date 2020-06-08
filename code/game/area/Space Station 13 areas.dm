@@ -172,6 +172,30 @@ area/space/atmosalert()
 	name = "\improper Elite Mercenary Squad"
 	icon_state = "syndie-elite"
 
+	//neptune areas from here on out
+
+/area/neptune/boiler_room
+	name = "Boiler Room"
+	icon_state = "beach"
+	forced_ambience = list('sound/ambience/maintambience.ogg') //change to real boiler room ambience soon
+
+/area/neptune/coal_bunker
+	name = "Coal Bunker"
+	icon_state = "beach"
+
+/area/neptune/engine_room
+	name = "Engine Room"
+	icon_state = "beach"
+
+/area/neptune/cargo_hold
+	name = "Cargo Hold"
+	icon_state = "beach"
+
+/area/neptune/firemans_quarters
+	name = "firemans quarters"
+	icon_state = "firemansquarters"
+
+
 ////////////
 //SHUTTLES//
 ////////////

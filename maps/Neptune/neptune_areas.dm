@@ -11,4 +11,4 @@
 	name = "Neptune"
 	icon_state = "cassini"
 	icon = 'maps/cassini/icons/areas.dmi'
-	base_turf = /turf/simulated/ocean/dry
+	base_turf = /turf/simulated/ocean

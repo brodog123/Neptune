@@ -1,22 +1,16 @@
 
-var/list/dreams = list(
-	"an ID card","a bottle","a familiar face","a crewmember","a toolbox","a security officer","the captain",
-	"voices from all around","deep space","a doctor","the engine","a traitor","an ally","darkness",
-	"light","a scientist","a monkey","a catastrophe","a loved one","a gun","warmth","freezing","the sun",
-	"a hat","a ruined station","a planet","phoron","air","the medical bay","the bridge","blinking lights",
-	"a blue light","an abandoned laboratory","pirates", "mercenaries","blood","healing","power","respect",
-	"riches","space","a crash","happiness","pride","a fall","water","flames","ice","melons","flying","the eggs","money",
-	"the chief engineer","the chief science officer","the chief medical officer",
-	"a station engineer","the janitor","the atmospheric technician",
-	"a cargo technician","the botanist","a shaft miner","the psychologist","the chemist",
-	"the virologist","the roboticist","a chef","the bartender","a chaplain","a librarian","a mouse",
-	"a beach","the holodeck","a smokey room","a voice","the cold","a mouse","an operating table","the rain",
-	"the ai core","a beaker of strange liquid","a creature built completely of stolen flesh",
-	"a being made of light", "the commanding officer", "the executive officer", "the chief of security", "the corporate liason",
-	"the representative", "the senior advisor", "the bridge officer", "the senior engineer", "the physician", "the corpsman", "the counselor",
-	"the medical contractor", "the security contractor", "the stowaway", "an old friend", "the prospector", "the pilot", "the passenger", "the chief of security",
-	"the master at arms", "the forensic technician", "the brig officer", "the tower", "the man with no face", "a field of flowers", "an old home", "the merc",
-	"a surgery table", "a needle", "a blade", "an ocean", "right behind you", "standing above you", "someone near by", "a place forgotten", "the exodus",
+var/list/dreams = list( "a key", "drowning", "sea burial", "a sinking ship", "Neptune", "a trident", "a lighthouse", "a ball of fire", "strange men", "waves", "death", "weevils", "cockroaches", "a fine cigar",
+	"a looking glass", "a thunderstorm", "mountains", "seagulls", "an octopus", "Davy Jone's Locker", "Jonah and the Whale", "Davy Jones", "a whale", "pirates", "The Flying Dutchman", "a ball of fire",
+	"a ship suspended in the sky", "a red sunrise", "Jonah", "a redheaded man", "a woman", "Friday", "mermaids", "sirens", "an albatross", "a black cat", "a Cormorant", "A Klabautermann",
+	"Saint Nicholas", "Brendan The Navigator", "Kraken", "Amphitrite", "The Captain's Whip", "An Evil Eye", "bedbugs", "termites", "an anchor", "antarctica", "Soup", "fog", "mist",
+	"the ocean", "shipwrecks", "divers", "the equator", "slimy things with slimy legs", "a hurricane", "in the belly of a shark", "giants", "icebergs", "pack ice", "boilers",
+	"colorful fish", "a sandy shore", "a rocky shore", "a harbor", "rotten timber", "an oil lamp", "a fire", "a storm", "whirlpools", "a submarine", "a hermit", "a desert island",
+	"saltwater", "crabs", "scurvy", "a piano","a church organ", "wind", "coal", "a stove", "God", "monsters", "a swamp", "a train", "the moon", "mars", "mercury", "the sun", "jupiter",
+	"pluto", "Venus", "Saturn", "Uranus", "Satan", "Jesus", "A desert", "The Last Supper", "Church", "the future", "the past", "a volcano", "sails", "cigars", "alcohol", "moldy bread",
+	"new beginnings", "the end", "a skeleton", "a campfire", "gold", "silver", "copper", "divorce", "torpedoes", "bells", "a toy boat", "a crystal ball", "a meteor", "dinosaurs",
+	"a barge", "a tug", "a warship", "a ghost", "angry spirits", "rats", "hardtack", "catharsis", "purgatory", "reincarnation", "hope", "a light", "a tunnel", "introspection",
+	"a ghost ship", "nautilus", "soap", "a towel", "a beach", "judgement", "a clock", "melting", "gnats", "rope", "masts", "harpoons", "SOS", "lost with all hands", "vanished",
+	"suspicious", "good", "evil", "seaweed", "scrimshaw", "fish guts", "a wheelhouse", "a paddleboat", "cola", "space", "stars", "a shooting star", "a telescope", "darkness"
 	)
 
 mob/living/carbon/proc/dream()
